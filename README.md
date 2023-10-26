@@ -1,6 +1,7 @@
 # Basic-Web-Calculator
 
-<img width="300" height="400" alt="cacl" src="https://github.com/Mukeshkumar1611/Basic-Web-Calculator/assets/98644411/8bd71bf7-0267-47bd-8e02-ec00de7257ca" align = "center">
+<img width="296" alt="265024350-8bd71bf7-0267-47bd-8e02-ec00de7257ca" src="https://github.com/Mukeshkumar1611/BASIC-WEB-CALCULATOR/assets/98644411/382077bd-bc8c-476b-8557-4aa45085309d">
+
 
 
 # Simple Calculator
